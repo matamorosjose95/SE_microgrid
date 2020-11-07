@@ -1,2 +1,3 @@
-# SE_microgrid
-Para guardar y compartir los archivos y documentación de mi memoria de título relacionada con Estimación de estados y detección de fallas en una microrred con un filtro de partículas sensible al riesgo.
+# Estimación de estados y detección de fallas en una microrred usando un filtro de partículas sensible al riesgo
+
+Documentación relacionada con mi memoria de trabajo de título de Ingeniería Eléctrica de la Universidad de Chile. Mediante simulación de un modelo de microrred de CIGRE Task Force se implementa un esquema de estimación de estados y detección de fallas en una microrred para detectar dos tipos de fallas en una microrred: 1) Degradación de las propiedades eléctricas del aislante XLPE debido a la humedad y 2) Falla de circuito abierto en una de las compuertas IGBT de inversor *grid-supporting*.
